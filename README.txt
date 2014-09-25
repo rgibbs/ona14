@@ -1,3 +1,3 @@
-Name: 
-Hometown: 
-Employer: 
+Name: Tyler Fisher
+Hometown: Quakertown, PA
+Employer: NPR
