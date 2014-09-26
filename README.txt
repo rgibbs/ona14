@@ -1,3 +1,3 @@
-Name: 
-Hometown: 
-Employer: 
+Name: Rodney Gibbs
+Hometown: Austin, Texas
+Employer: Texas Tribune
